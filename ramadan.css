@@ -1,5 +1,4 @@
 .ram { 
-    font-size: 50px;
     background: -webkit-linear-gradient(#f7b801,#3d348b);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -8,7 +7,6 @@ h1 {
     color: black;
 }
 p {
-    font-size: 30px;
     background: -webkit-linear-gradient(white,#001219);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
