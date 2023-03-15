@@ -12,3 +12,6 @@ p {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+img {
+    margin-top: 70px;
+}
