@@ -1,8 +1,9 @@
 .ram { 
-    font-size: 60px;
+    font-size: 40px;
     background: -webkit-linear-gradient(#f7b801,#3d348b);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    margin-top: 50px;
 }
 h1 {
     color: black;
@@ -13,5 +14,5 @@ p {
     -webkit-text-fill-color: transparent;
 }
 img {
-    margin-top: 70px;
+    margin-top: 90px;
 }
